@@ -1,8 +1,23 @@
-# Grocery React App
+# Getting Started
 
-## Funtionality
+To get started, you will need to have Node.js and npm (Node Package Manager) installed on your machine.
 
-- useState
-- useEffect
+- Clone the repository: git clone `https://github.com/nannu-coder/react-dark-mood`
+- Navigate to the project directory: `cd my-react-app`
+- Install the dependencies: `npm install`
+- Start the development server: `npm start`
 
-![Web live Image](https://i.postimg.cc/3RZj8Jjf/Screenshot-23.png)
+The application should now be running on [http://localhost:3000](http://localhost:3000) in your browser
+
+## Built With
+
+- [React](https://reactjs.org/)
+- [create-react-app](https://create-react-app.dev/)
+
+## Author
+
+Nannu - [GitHub Profile](https://github.com/nannu-coder)
+
+## Project Preview
+
+![Grocery](https://i.postimg.cc/ZRRqLqWq/grocery.png)
